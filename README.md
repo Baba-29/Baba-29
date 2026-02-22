@@ -1,17 +1,15 @@
 
 #  About me :
 - I am French
-- High school student
-- I want to go to engineering school
-- I like new technologies, AI and autonomous cars
+- Engineering school student
+- I like electronics and computers
 
 ##  The languages that I am learning and that I want to learn are:
 - Python
 - HTML and CSS
-- C ++
+- C/C++
 
 ##  My projects :
-- Portfolio
 - Robot arm
 
 
